@@ -5,9 +5,14 @@ greeting = "hello world"
 
 # Variables can be a number
 fav_num = 7
+num_string = "5"
 
 # Variables can be Boolean (True / False)
 love_programming = True
 
+print(greeting)
+print(fav_num)
+print(love_programming)
+
 # this variable has a problem!
-# My name = "Miss 6"
+my_name = "Miss G"
