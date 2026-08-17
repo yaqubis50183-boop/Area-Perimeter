@@ -7,12 +7,5 @@ greeting = "hello world"
 fav_num = 7
 num_string = "5"
 
-# Variables can be Boolean (True / False)
-love_programming = True
-
-print(greeting)
-print(fav_num)
-print(love_programming)
-
-# this variable has a problem!
-my_name = "Miss G"
+print (fav_num * 2)
+print (num_string * 5)
